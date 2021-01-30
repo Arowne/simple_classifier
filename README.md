@@ -1,2 +1,2 @@
-# simple_classifieur
+# simple_classifier
 # multiple_layer_neuralnetwork
